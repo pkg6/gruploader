@@ -3,8 +3,8 @@ package github
 import (
 	"context"
 	"github.com/google/go-github/v68/github"
+	"github.com/pkg6/gruploader/logger"
 	"golang.org/x/oauth2"
-	"gruploader/logger"
 	"os"
 	"path/filepath"
 )

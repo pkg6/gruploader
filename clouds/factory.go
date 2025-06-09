@@ -2,9 +2,9 @@ package clouds
 
 import (
 	"fmt"
-	"gruploader/clouds/github"
-	"gruploader/flags"
-	"gruploader/utils"
+	"github.com/pkg6/gruploader/clouds/github"
+	"github.com/pkg6/gruploader/flags"
+	"github.com/pkg6/gruploader/utils"
 	"os"
 )
 

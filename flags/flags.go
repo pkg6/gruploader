@@ -1,7 +1,7 @@
 package flags
 
 import (
-	"gruploader/logger"
+	"github.com/pkg6/gruploader/logger"
 	"math/rand"
 	"time"
 )
