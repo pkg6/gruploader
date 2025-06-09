@@ -1,4 +1,4 @@
-module gruploader
+module github.com/pkg6/gruploader
 
 go 1.23
 

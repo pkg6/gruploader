@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/google/go-github/v68/github"
-	"gruploader/logger"
+	"github.com/pkg6/gruploader/logger"
 	"sort"
 )
 

@@ -2,10 +2,10 @@ package main
 
 import (
 	"flag"
-	"gruploader/clouds"
-	"gruploader/flags"
-	"gruploader/logger"
-	"gruploader/utils"
+	"github.com/pkg6/gruploader/clouds"
+	"github.com/pkg6/gruploader/flags"
+	"github.com/pkg6/gruploader/logger"
+	"github.com/pkg6/gruploader/utils"
 )
 
 var (
